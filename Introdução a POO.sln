@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introdução a POO", "Introdução a POO\Introdução a POO.csproj", "{D22A1069-6D3C-4247-9CC2-2628E7DC2A02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D22A1069-6D3C-4247-9CC2-2628E7DC2A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D22A1069-6D3C-4247-9CC2-2628E7DC2A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D22A1069-6D3C-4247-9CC2-2628E7DC2A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D22A1069-6D3C-4247-9CC2-2628E7DC2A02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6456A5BB-1411-447D-ACC7-A5B7BDDF06EC}
+	EndGlobalSection
+EndGlobal
